@@ -1,0 +1,1 @@
+void output(char **arr, int size);
