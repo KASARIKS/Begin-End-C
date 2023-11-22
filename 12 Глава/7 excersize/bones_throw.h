@@ -1,0 +1,1 @@
+int bones_throw(int sides, int bones);
