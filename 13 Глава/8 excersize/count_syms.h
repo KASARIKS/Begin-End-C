@@ -1,0 +1,1 @@
+int count_syms(char *name, char sym);
