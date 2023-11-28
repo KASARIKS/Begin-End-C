@@ -1,0 +1,1 @@
+void input_flight(char *ch);
